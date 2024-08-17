@@ -13,9 +13,19 @@ p{
     line-height: 2;
 }
 a{
-    color: black;
+    color: white;
     text-decoration: none;
 }
+/*---------------------utilities--------------------*/
+
 /*----------------------header----------------------*/
+header{
+    background-image: url(./img/header.jpg);
+    background-position: center center;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    height: 400px
+}
 
 /*----------------------aboutus----------------------*/
